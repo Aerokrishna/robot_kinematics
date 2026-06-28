@@ -1,0 +1,9 @@
+contains files necessary to generate 
+trajectory, joint as well as task space
+trajectories
+position, velocity, acceleration trajectory
+also for orientation interpolation
+
+will contain some general trajectory shapes, circle, linear, spline
+
+trajectory optimization in the future
